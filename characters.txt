@@ -1,0 +1,18 @@
+Wonder Woman
+90
+Batman
+80
+The Joker
+80
+Superman
+100
+Catwoman
+50
+Aquaman
+30
+Iron Man
+50
+Hulk
+80
+Thanos
+90
