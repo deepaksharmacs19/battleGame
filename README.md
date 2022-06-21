@@ -1,0 +1,2 @@
+# battleGame
+This is the code that I have made to make a fun and learn the file handling in C programming language as we know that if you can code in C then you can code in any programming language because In C we have to type more code as compared to any other programming language. I just love one thing about C programming that it does not have many ready made modules for you to make a programming language more complex for you, everything is infront of you like an open book.
